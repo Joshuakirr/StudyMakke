@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-# StudyNetwork
-=======
-# StudyMake
->>>>>>> first commit
-# studynetwork
+ first commit
+
